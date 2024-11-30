@@ -85,7 +85,7 @@ This project uses **Bloc** for state management to manage blog post data efficie
 ### **Screenshots**
 | Blog List Page                          | Blog Details Page                       |
 |-----------------------------------------|-----------------------------------------|
-| ![Blog List](screenshots/blog_ss1.png) | ![Blog Details](screenshots/blog_ss2.png) |
+| ![Blog List](screenshots/blog_ss1.jpg) | ![Blog Details](screenshots/blog_ss2.jpg) |
 
 ### **Demo GIF**
 ![App Demo](screenshots/blog.gif)
