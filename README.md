@@ -2,6 +2,13 @@
 
 A Flutter application that displays a list of blog posts fetched from Firebase Cloud Firestore. Users can navigate to specific blog posts using deep links.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/BLoC-61DAFB?style=for-the-badge&logo=bloc&logoColor=white" alt="BLoC" />
+  <img src="https://img.shields.io/badge/Firebase-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Firestore" />
+</p>
+
 ---
 
 ## **Features**
@@ -85,7 +92,7 @@ This project uses **Bloc** for state management to manage blog post data efficie
 ### **Screenshots**
 | Blog List Page                          | Blog Details Page                       |
 |-----------------------------------------|-----------------------------------------|
-| ![Blog List](screenshots/blog_ss1.png) | ![Blog Details](screenshots/blog_ss2.png) |
+| ![Blog List](screenshots/blog_ss1.jpg) | ![Blog Details](screenshots/blog_ss2.jpg) |
 
 ### **Demo GIF**
 ![App Demo](screenshots/blog.gif)
